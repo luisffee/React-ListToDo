@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+postgres
+sqlalchemy_utils
+psycopg2
+python-dotenv
+flask-cors
+
+datetime
+pytz
